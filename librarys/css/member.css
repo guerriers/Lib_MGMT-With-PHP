@@ -1,0 +1,128 @@
+body {
+    font-family: 'Kanit', sans-serif;
+    margin: 0;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.container {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    /* margin-left: 50px;
+    margin-right: 50px; */
+    padding-left: 150px;
+    padding-right: 150px;
+    /* padding: 30px;
+    margin: 30px; */
+    /* max-width: 100%; */
+}
+
+h1 {
+    font-size: 45px;
+}
+
+p {
+    font-size: 20px;
+    color: gray;
+}
+
+.row-table {
+    width: 70%;
+}
+
+.back-footer {
+    padding-right: 35px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.hr-footer {
+    margin: 0;
+}
+
+.footer {
+    background-color: rgb(209, 209, 209);
+}
+
+.table-list-book {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.title-table {
+    text-align: center;
+    /* margin-top: 10px; */
+    margin-bottom: 20px;
+}
+
+.btn-table {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.page-header {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.Details {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    /* border: 1px solid; */
+}
+
+.ser-row {
+    border: 1px solid;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.ser-table {
+    border: 1px solid;
+}
+
+.col-margin {
+    margin-left: -5px;
+    color: blue;
+}
+
+.row-1 {
+    margin-top: 10px;
+}
+
+.row-2 {
+    margin-top: 10px;
+}
+
+.row-3 {
+    margin-top: 10px;
+}
+
+.row-4 {
+    margin-top: 10px;
+}
+
+.row-5 {
+    margin-top: 10px;
+}
+
+.row-6 {
+    margin-top: 10px;
+}
+
+.row-7 {
+    margin-top: 10px;
+}
+
+.edit-class {
+    margin-left: 30px;
+}
+
+.delete-class {
+    margin-left: 30px;
+}
